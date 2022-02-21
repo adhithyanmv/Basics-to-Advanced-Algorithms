@@ -1,0 +1,10 @@
+- ### You should have strong knowledge in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> or <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+- ### These are the Advanced Algos
+  - **[🔥 CipherDecode](cipher-decode-rot13.js)** <br> _given a code, decode and return the data_
+  - **[🔥 FirstNonRepeatingChar](first-non-repeating-char.py)** <br> _return the first non-repeating character_
+  - **[🔥 ReverseNodesFromKthGroup](reverse-nodes-from-kth-group.js)** <br> _reverse the nodes from the k and append and return_
+  - **[🔥 SortedIntersectionIn2LL](sorted-intersection-in-2-LL.js)** <br> _return the intersection in 2 sorted Linked List_
+  - **[🔥 SudokuSolver](<sudoku-solver(not-finished-yet).js>)** <br> _it's not yet done.. i'll use recursion and backtracking for this one_
+  - **[🔥 TicTacToeChecker](tictactoe-checker.py)** <br> _Hope you know the tictactoe rules, we'll get a 3x3 array and checks with tictactoe rules_
+  - **[🔥 US-Telephone-Validator](US-telephone-check.js)** <br> _checks if the phone number is a valid us phone number, excuse my messy coding for this_

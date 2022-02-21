@@ -1,0 +1,30 @@
+- ### You should need somewhat a strong knowledge in <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+- ### These are the Intermediate Algos
+  - **[🥈 ArrayDestroyer](arr-destroyer.js)** <br> _Given a array of datas, delete the the datas which is present as second argument_
+  - **[🥈 CountBits](count-bits.js)** <br> _convert the given number to binary and count it_
+  - **[🥈 DigitalRoot](digital-root.js)** <br> _data = 493193 -> 4+9+3+1+9+3 = 29 =2+9 = 11_
+  - **[🥈 DNAPairing](dnapairingCGTA.js)** <br> _dna pairing(CG TA)!_
+  - **[🥈 DomainSeperator](domain-seperator.js)** <br> _seperate the domain from the given link_
+  - **[🥈 FbLikeSystem](fb-likes-algorithm.js)** <br> _implementing FB likes algorithm_
+  - **[🥈 FindNums](find-nums.js)** <br> _find the nums with even num of digits(more explanation in the file)_
+  - **[🥈 FindOutlier](findoutlier.js)** <br> _find the party outlier. for eg:- return the odd number if that is the only odd number in the party_
+  - **[🥈 HashtagGenerator](hashtag-generator.js)** <br> _yes the name says it_
+  - **[🥈 IntersectionElements](intersection-elements.js)** <br> _return the intersection elements from 2 arrays_
+  - **[🥈 PalindromeCheck(Ignore Special Characters)](is-pali-without-special-characters.js)** <br> _given the string, checks if it is palindrome by ignoring the special characters_
+  - **[🥈 IsPangram](ispangram.js)** <br> _check if the given string contains all the alphabets(pangram)_
+  - **[🥈 MaxConsecutiveNum](maxconsecutiveones.js)** <br> _return the maxconsecutiveones occuring sum_
+  - **[🥈 MedianOfSortedArr](median-of-sorted-arr.js)** <br> _return the median of a sorted array_
+  - **[🥈 PigLatin](pig-latin.js)** <br> _Rules for pig latin is given in the file_
+  - **[🥈 SortOrder](sort-order.js)** <br> _sorting order with numbers btw words!_
+  - **[🥈 SortedUnion](sorted-union.js)** <br> _getting n number of arrays, sort it all return as one array(no duplicates)_
+  - **[🥈 SpinalCase](spinalcase.js)** <br> _convert the string into spinal case_
+  - **[🥈 SpinWords](spinwords-gt-5.js)** <br> _if the word is more than or equal to 5 then reverse it and append with all of them_
+  - **[🥈 StringSplit](strsplit.js)** <br> _rules are mentioned in the program_
+  - **[🥈 SymmetricDifference](symmetricdiff.js)** <br> _find and return the symmetric SymmetricDifference of an array_
+  - **[🥈 ToHTMLEntities](tohtmlentities.js)** <br> _convert symbols to html entities_
+  - **[🥈 TruthCheck](truth-check.js)** <br> _check if the pre inside the object is true_
+  - **[🥈 TwoSum](two-sum-with-target.js)** <br> _return the 2 numbers which sums up into the second argument_
+  - **[🥈 UniqueInOrder](uniqueinorder.js)** <br> _unique words or arrays or integers or whatever... no duplicates at same time_
+  - **[🥈 ValidParantheses](valid-parantheses.js)** <br> _check if the parantheses are valid_
+  - **[🥈 WhereMyAnagramAt](where-my-anagram.js)** <br> _This is really hard to explain so you may have to check the program first_

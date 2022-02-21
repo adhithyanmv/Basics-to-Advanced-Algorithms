@@ -1,0 +1,26 @@
+- ### Anyone with the basic knowledge in <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> or <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> can do this!
+- ### You should have strong knowledge in basics like
+
+  - Loops
+  - Arrays And Array Methods
+  - String Methods
+  - Data Types
+
+- ### These are the basic Algos
+  - **[👾 BigArray](bigarrs.py)** <br> _Returning biggest numbers in all 4 arrays_
+  - **[👾 CapitilizingFirstLetterOnly](capitilizing-first-letter-only.js)** <br> _Capitilizing first letter only and others to lowercase_
+  - **[👾 CheckIfArr[0]IncludesInArr[1]](check-if-arg2-includes-in-arg1.js)** <br> _true if the string in the first element of the array contains all of the letters of the string in the second element of the array_
+  - **[👾 ConfirmingEnding](checking-if-arg1-ends-on-arg2.js)** <br> _check if the first arg ends with the 2nd arg in string!_
+  - **[👾 FrankenSplice](frankensplice.js)** <br> _Copy each element of the first array into the second array, in order.Begin inserting elements at index n of the second array. Return the resulting array_
+  - **[👾 GetIndexToIns](getindextoins.js)** <br> _Return the lowest index at which a value (second argument) should be inserted into an array (first argument) once it has been sorted. The returned value should be a number._
+  - **[👾 IsBoolean](isbool.js)** <br> _check if it's a boolean value (true or false)_
+  - **[👾 MoveZeroes](movezeroes.js)** <br> _move the zeroes to the end and continue the order_
+  - **[👾 PossibleWords](possible-words.py)** <br> _given 2 arrays one is listofchars and other is listofwords. return the all possible possible words from listofwords_
+  - **[👾 RepeatStringNumOfTimes](repeat-the-string-ntimes.js)** <br> _in a given string, repeat the string in the first arg as number of times in second arg!_
+  - **[👾 BigIn4](returing-biggest-in-4-arrays.js)** <br> _finding the biggest in 4 arrays and return them as new array!_
+  - **[👾 SquareAndConcate](square-and-concate.js)** <br> _square every digit and concate them_
+  - **[👾 SumFibs](sum-fibs.js)** <br> _sum all fibonacci numbers_
+  - **[👾 SumAllInRange](sumallinrange.js)** <br> _sum all numbers in between a range_
+  - **[👾 TitleCase](title-case.py)** <br> _convert a given word into title case_
+  - **[👾 TruncingKTimes](truncing-ktimes.js)** <br> _in a function first arg get trunced acco to 2nd arg with '.......'_
+  - **[👾 TruncString](truncstr.py)** <br> _in a function first arg get trunced acco to 2nd arg with dots_
