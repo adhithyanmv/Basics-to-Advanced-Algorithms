@@ -1,20 +1,61 @@
-function search(nums, target) {
-  for (let i = 0; i < nums.length; i++) {
-    if (nums[i] == target) return i;
+function anagrams(word, words) {
+  let main = [];
+  let arr = [];
+  let mainArr = [];
+  for (let i = 0; i < words.length; i++) {
+    if (word.length === words[i].length) main.push([...words[i]]);
   }
-  return -1;
-}
 
-var searchInsert = function (nums, target) {
-  if (search(nums, target) == -1) {
-    for (let i = 0; i < nums.length; i++) {
-      if (i == nums.length - 1) return nums.length;
-      if (nums[i + 1] > target) return i + 1;
+  for (let i = 0; i < main.length; i++) {
+    let tf;
+    let curr = main[i];
+
+    for (let i = 0; i < curr.length; i++) {
+      if (word.includes(curr[i])) {
+        tf = true;
+      } else {
+        tf = false;
+        break;
+      }
     }
-  } else {
-    let n = search(nums, target);
-    console.log(n);
+    if (tf) {
+      arr.push(curr);
+    }
   }
-};
 
-console.log(searchInsert([1, 3, 5, 6], 7));
+  let curr = " ";
+  for (let i = 0; i < arr.length; i++) {
+    let tf;
+    let cur = arr[i];
+    for (let j = 0; j < word.length; j++) {
+      if (cur.includes(word[j])) {
+        tf = true;
+      } else {
+        tf = false;
+        break;
+      }
+    }
+    if (tf) {
+      curr += cur;
+    }
+  }
+
+  let lastMainWord = curr
+    .split("")
+    .filter((e) => e !== ",")
+    .join("");
+
+  let lw = chunkSubstr(lastMainWord.replace(" ", ""), word.length);
+
+  function chunkSubstr(str, size) {
+    const numChunks = Math.ceil(str.length / size);
+    const chunks = new Array(numChunks);
+
+    for (let i = 0, o = 0; i < numChunks; ++i, o += size) {
+      chunks[i] = str.substr(o, size);
+    }
+
+    return chunks;
+  }
+  return lw;
+}
