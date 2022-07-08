@@ -28,3 +28,4 @@
   - **[🥈 UniqueInOrder](uniqueinorder.js)** <br> _unique words or arrays or integers or whatever... no duplicates at same time_
   - **[🥈 ValidParantheses](valid-parantheses.js)** <br> _check if the parantheses are valid_
   - **[🥈 WhereMyAnagramAt](where-my-anagram.js)** <br> _This is really hard to explain so you may have to check the program first_
+  - **[🥈 PowXN](powXN.js)** <br> _Find the power of x raise to n_
