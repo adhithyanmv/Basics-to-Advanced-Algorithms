@@ -24,3 +24,4 @@
   - **[👾 TitleCase](title-case.py)** <br> _convert a given word into title case_
   - **[👾 TruncingKTimes](truncing-ktimes.js)** <br> _in a function first arg get trunced acco to 2nd arg with '.......'_
   - **[👾 TruncString](truncstr.py)** <br> _in a function first arg get trunced acco to 2nd arg with dots_
+  - **[👾 FirstMissingPositiveNumber](firstmisspos.py)** <br> _Find and return the first missing positive number_
