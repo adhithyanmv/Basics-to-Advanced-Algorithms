@@ -30,4 +30,5 @@
   - **[🥈 WhereMyAnagramAt](where-my-anagram.js)** <br> _This is really hard to explain so you may have to check the program first_
   - **[🥈 PowXN](powXN.js)** <br> _Find the power of x raise to n_
   - **[🥈 MyAtoi](atoi.js)** <br> _Create a atoi function_
+  - **[🥈 WordLadder](wordladder.js)** <br> _Word ladder_
   - **[🥈 StrongPasswordCheck](pwdcheck.js)** <br> _Given a password, check and return the number of steps required to make it stronger, if it's already strong then return 0_
