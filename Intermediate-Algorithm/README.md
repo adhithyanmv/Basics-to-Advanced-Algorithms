@@ -29,3 +29,4 @@
   - **[🥈 ValidParantheses](valid-parantheses.js)** <br> _check if the parantheses are valid_
   - **[🥈 WhereMyAnagramAt](where-my-anagram.js)** <br> _This is really hard to explain so you may have to check the program first_
   - **[🥈 PowXN](powXN.js)** <br> _Find the power of x raise to n_
+  - **[🥈 MyAtoi](atoi.js)** <br> _Create a atoi function_
